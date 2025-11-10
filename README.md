@@ -46,6 +46,7 @@ Project ini berfokus pada arsitektur clean, modular service pattern, serta integ
 
 ### Clone Repository
 
+```
 1. git clone https://github.com/titon19/fetching-best-practice.git
 2. cd fetching-best-practice
 3. npm install
@@ -70,7 +71,5 @@ Project ini berfokus pada arsitektur clean, modular service pattern, serta integ
 ✅ Validasi form dengan Zod
 ✅ Query cache invalidation dengan TanStack Query
 ✅ Clean architecture: Service Layer + API Handler
-
-```
 
 ```
